@@ -1,14 +1,1 @@
-
-
-.ImageContainer{
-  max-width: 300px;
-  max-height: 300px;
-}
-
-.ImageContainer img{
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 0.6rem;
-}
-
+/* no use */
