@@ -1,0 +1,255 @@
+[
+    {
+      "packageId": "P101",
+      "packageCountry": "Italy",
+      "packageCity": "Rome",
+      "packageName": "Roman Holiday",
+      "packageDesc": "Experience the ancient wonders of Rome on this unforgettable journey.",
+      "packageRating": 4.7,
+      "packageReviews": 20,
+      "packagePrice": "800",
+      "packageDuration": "6 days",
+      "minAge": "20",
+      "maxPeople": 10,
+      "packagePickup": "Hotel pickup",
+      "availableDate": "2024-09-15",
+      "packageLanguage": null,
+      "packageImage": "roman_holiday.jpg",
+      "createdAt": "2024-06-07T09:32:04.053",
+      "updatedAt": "2024-06-07T09:32:04.053",
+      "itineraries": [
+        {
+          "itineraryId": 1,
+          "packageId": "P101",
+          "day": "Day 1",
+          "title": "Colosseum Exploration",
+          "activities": "Visit the Colosseum, Explore the Roman Forum, Admire the Pantheon"
+        },
+        {
+          "itineraryId": 2,
+          "packageId": "P101",
+          "day": "Day 2",
+          "title": "Vatican City Tour",
+          "activities": "Visit St. Peter's Basilica, Explore the Vatican Museums, Admire the Sistine Chapel"
+        },
+        {
+          "itineraryId": 3,
+          "packageId": "P101",
+          "day": "Day 3",
+          "title": "Trevi Fountain Visit",
+          "activities": "Throw a coin into the fountain, Visit Piazza Navona, Explore the Spanish Steps"
+        }
+      ]
+    },
+    {
+      "packageId": "P102",
+      "packageCountry": "Japan",
+      "packageCity": "Tokyo",
+      "packageName": "Tokyo Thrills",
+      "packageDesc": "Discover the electrifying energy of Tokyo with this action-packed adventure.",
+      "packageRating": 4.9,
+      "packageReviews": 30,
+      "packagePrice": "900",
+      "packageDuration": "8 days",
+      "minAge": "25",
+      "maxPeople": 12,
+      "packagePickup": "Airport pickup",
+      "availableDate": "2024-10-25",
+      "packageLanguage": null,
+      "packageImage": "tokyo_thrills.jpg",
+      "createdAt": "2024-06-07T09:32:04.053",
+      "updatedAt": "2024-06-07T09:32:04.053",
+      "itineraries": [
+        {
+          "itineraryId": 4,
+          "packageId": "P102",
+          "day": "Day 1",
+          "title": "Shibuya Crossing",
+          "activities": "Cross the famous intersection, Explore Shibuya district, Visit Hachiko Statue"
+        },
+        {
+          "itineraryId": 5,
+          "packageId": "P102",
+          "day": "Day 2",
+          "title": "Tokyo Disneyland",
+          "activities": "Enjoy rides and attractions, Meet Disney characters, Watch parades and shows"
+        },
+        {
+          "itineraryId": 6,
+          "packageId": "P102",
+          "day": "Day 3",
+          "title": "Tsukiji Fish Market",
+          "activities": "Explore the largest fish market, Taste fresh seafood, Watch tuna auctions"
+        }
+      ]
+    },
+    {
+      "packageId": "P103",
+      "packageCountry": "Australia",
+      "packageCity": "Sydney",
+      "packageName": "Sydney Escape",
+      "packageDesc": "Embark on a journey to the iconic landmarks of Sydney with this relaxing getaway.",
+      "packageRating": 4.5,
+      "packageReviews": 15,
+      "packagePrice": "600",
+      "packageDuration": "4 days",
+      "minAge": "18",
+      "maxPeople": 6,
+      "packagePickup": "Airport pickup",
+      "availableDate": "2024-11-10",
+      "packageLanguage": null,
+      "packageImage": "sydney_escape.jpg",
+      "createdAt": "2024-06-07T09:32:04.053",
+      "updatedAt": "2024-06-07T09:32:04.053",
+      "itineraries": [
+        {
+          "itineraryId": 7,
+          "packageId": "P103",
+          "day": "Day 1",
+          "title": "Sydney Opera House Tour",
+          "activities": "Guided tour of the Opera House, Enjoy breathtaking views, Learn about its history"
+        },
+        {
+          "itineraryId": 8,
+          "packageId": "P103",
+          "day": "Day 2",
+          "title": "Bondi Beach Relaxation",
+          "activities": "Relax on the beach, Take a coastal walk, Swim at Icebergs Pool"
+        },
+        {
+          "itineraryId": 9,
+          "packageId": "P103",
+          "day": "Day 3",
+          "title": "Blue Mountains Excursion",
+          "activities": "Visit the Three Sisters, Ride the Scenic World, Explore scenic hiking trails"
+        }
+      ]
+    },
+    {
+      "packageId": "P104",
+      "packageCountry": "France",
+      "packageCity": "Paris",
+      "packageName": "Parisian Delight",
+      "packageDesc": "Immerse yourself in the art, culture, and cuisine of the City of Light.",
+      "packageRating": 4.8,
+      "packageReviews": 25,
+      "packagePrice": "1000",
+      "packageDuration": "7 days",
+      "minAge": "21",
+      "maxPeople": 8,
+      "packagePickup": "Hotel pickup",
+      "availableDate": "2024-08-20",
+      "packageLanguage": null,
+      "packageImage": "parisian_delight.jpg",
+      "createdAt": "2024-06-07T09:32:04.053",
+      "updatedAt": "2024-06-07T09:32:04.053",
+      "itineraries": [
+        {
+          "itineraryId": 10,
+          "packageId": "P104",
+          "day": "Day 1",
+          "title": "Eiffel Tower Visit",
+          "activities": "Climb the Eiffel Tower, Enjoy Seine River Cruise, Visit Trocadero Gardens"
+        },
+        {
+          "itineraryId": 11,
+          "packageId": "P104",
+          "day": "Day 2",
+          "title": "Louvre Museum Tour",
+          "activities": "Explore the Louvre Museum, Admire Mona Lisa, Discover Egyptian Antiquities"
+        },
+        {
+          "itineraryId": 12,
+          "packageId": "P104",
+          "day": "Day 3",
+          "title": "Montmartre Walk",
+          "activities": "Visit Sacré-Cœur Basilica, Explore Montmartre district, Enjoy local cafes"
+        }
+      ]
+    },
+    {
+      "packageId": "P105",
+      "packageCountry": "Brazil",
+      "packageCity": "Rio de Janeiro",
+      "packageName": "Rio Carnival Experience",
+      "packageDesc": "Dive into the vibrant culture of Rio during its famous Carnival.",
+      "packageRating": 4.6,
+      "packageReviews": 18,
+      "packagePrice": "950",
+      "packageDuration": "5 days",
+      "minAge": "22",
+      "maxPeople": 15,
+      "packagePickup": "Airport pickup",
+      "availableDate": "2024-02-20",
+      "packageLanguage": null,
+      "packageImage": "rio_carnival.jpg",
+      "createdAt": "2024-06-07T09:32:04.053",
+      "updatedAt": "2024-06-07T09:32:04.053",
+      "itineraries": [
+        {
+          "itineraryId": 13,
+          "packageId": "P105",
+          "day": "Day 1",
+          "title": "Sambadrome Parade",
+          "activities": "Watch the Samba Parade, Enjoy street food, Experience local music"
+        },
+        {
+          "itineraryId": 14,
+          "packageId": "P105",
+          "day": "Day 2",
+          "title": "Christ the Redeemer",
+          "activities": "Visit Christ the Redeemer statue, Explore Tijuca Forest, Enjoy panoramic views"
+        },
+        {
+          "itineraryId": 15,
+          "packageId": "P105",
+          "day": "Day 3",
+          "title": "Copacabana Beach",
+          "activities": "Relax at Copacabana Beach, Enjoy water sports, Dine at beachfront restaurants"
+        }
+      ]
+    },
+    {
+      "packageId": "P106",
+      "packageCountry": "Egypt",
+      "packageCity": "Cairo",
+      "packageName": "Cairo Pyramids Adventure",
+      "packageDesc": "Witness the ancient marvels of Egypt on this historical expedition.",
+      "packageRating": 4.7,
+      "packageReviews": 22,
+      "packagePrice": "850",
+      "packageDuration": "5 days",
+      "minAge": "21",
+      "maxPeople": 10,
+      "packagePickup": "Hotel pickup",
+      "availableDate": "2024-12-05",
+      "packageLanguage": null,
+      "packageImage": "cairo_pyramids.jpg",
+      "createdAt": "2024-06-07T09:32:04.053",
+      "updatedAt": "2024-06-07T09:32:04.053",
+      "itineraries": [
+        {
+          "itineraryId": 16,
+          "packageId": "P106",
+          "day": "Day 1",
+          "title": "Giza Pyramids Tour",
+          "activities": "Explore the Great Pyramids, Visit the Sphinx, Learn about ancient history"
+        },
+        {
+          "itineraryId": 17,
+          "packageId": "P106",
+          "day": "Day 2",
+          "title": "Egyptian Museum Visit",
+          "activities": "Discover ancient artifacts, See King Tut's treasures, Learn about pharaohs"
+        },
+        {
+          "itineraryId": 18,
+          "packageId": "P106",
+          "day": "Day 3",
+          "title": "Nile River Cruise",
+          "activities": "Cruise the Nile River, Enjoy local cuisine, Experience traditional dance"
+        }
+      ]
+    }
+  ]
+  
